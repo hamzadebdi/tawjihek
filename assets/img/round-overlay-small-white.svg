@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="641px" height="640px" viewBox="0 0 641 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>round-overlay-small</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="round-overlay-small" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF">
+            <circle id="Oval" opacity="0.3" cx="319.5" cy="319.5" r="51.5"></circle>
+            <circle id="Oval" opacity="0.25" cx="319" cy="320" r="100"></circle>
+            <ellipse id="Oval" opacity="0.2" cx="321" cy="319.5" rx="149" ry="148.5"></ellipse>
+            <circle id="Oval" opacity="0.2" cx="320.5" cy="319.5" r="204.5"></circle>
+            <ellipse id="Oval" opacity="0.1" cx="321" cy="319.5" rx="259" ry="258.5"></ellipse>
+            <ellipse id="Oval" opacity="0.05" cx="319.5" cy="319" rx="319.5" ry="319"></ellipse>
+        </g>
+    </g>
+</svg>
